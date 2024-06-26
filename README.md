@@ -1,5 +1,4 @@
 # ELECTORAL-BOND-ANALYSIS-USING-PYTHON
-
 ## Overview
 
 Electoral bonds are a financial instrument introduced in India in 2018, designed to enable anonymous donations to political parties. This project aims to analyze the data related to electoral bonds to understand their impact on political funding, transparency, and electoral processes in India.
